@@ -1,0 +1,9 @@
+/* pages/home/home.wxss */
+.title{
+  color: rebeccapurple;
+  font-size: 20px
+}
+
+.button{
+  color: blue
+}
